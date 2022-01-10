@@ -1,1 +1,1 @@
-# StringCheck
+# StringChecker
